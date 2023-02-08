@@ -1,6 +1,7 @@
 body {
     text-align: center;
     background-color: #f0d20d1c;
+    background-color: #ffffb3;
 }
 
 .tiny {
@@ -11,6 +12,8 @@ body {
     border-radius: 20px;
     margin-top: 20px;
     box-shadow: 3px 2px 1px 4px grey;
+    width:700px;
+    margin-left: 340px;
 }
 
 .tiny:hover {
